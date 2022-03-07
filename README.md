@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=ffb6c1&height=300&section=header&text=HONG SUNG JIN 😄&fontSize=90" />
+## HONG SUNG JIN 😄
 
 ### 📌 Tech Stack.
 ***
