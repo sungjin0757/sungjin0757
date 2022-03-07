@@ -1,5 +1,6 @@
 ## HONG SUNG JIN 😄
 
+
 ### 📌 Tech Stack.
 ***
 
@@ -49,8 +50,11 @@
 ***
 <a href="https://velog.io/@sungjin0757" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" /></a> <a href="mailto:sungjin0757@naver.com" ><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a> <a href="https://github.com/sungjin0757" targe="_blank" ><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungjin0757&show_icons=true&theme=gruvbox) 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stte12)](https://solved.ac/stte12)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sungjin0757&show_icons=true&theme=gruvbox" width="250"
+/> <a href="https://solved.ac/stte12" target="_blank"><img
+  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stte12" width="200"
+/> </a>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungjin0757&count_bg=%23F5F5DC&title_bg=%23FFB6C1&icon=&icon_color=%23D9D7D7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
