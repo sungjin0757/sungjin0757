@@ -45,8 +45,6 @@
   src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"
 /> 
 
-***
-
 ### 📞 Contacts.
 ***
 <a href="https://velog.io/@sungjin0757" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" /></a> <a href="mailto:sungjin0757@naver.com" ><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a> <a href="https://github.com/sungjin0757" targe="_blank" ><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /></a>
