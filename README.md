@@ -50,6 +50,8 @@
 ***
 <a href="https://velog.io/@sungjin0757" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" /></a> <a href="mailto:sungjin0757@naver.com" ><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a> <a href="https://github.com/sungjin0757" targe="_blank" ><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /></a>
 
+### 🎖 Stats.
+***
 <img
   src="https://github-readme-stats.vercel.app/api?username=sungjin0757&show_icons=true&theme=gruvbox" width="250"
 /> <a href="https://solved.ac/stte12" target="_blank"><img
